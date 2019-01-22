@@ -7,7 +7,7 @@
  * Version 1.2 released April 2018
  */
 
-package words.with.aqa;
+package com.company;
 
 import java.io.*;
 import java.nio.charset.Charset;
